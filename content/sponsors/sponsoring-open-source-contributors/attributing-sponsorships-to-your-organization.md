@@ -16,6 +16,7 @@ shortTitle: Attribute sponsorships
 ---
 
 1. Navigate to the organization whose sponsorships you want to attribute to another organization.
+2. Set up the Sponsorship. 
 {% data reusables.organizations.navigate-to-sponsoring %}
 1. In the sidebar, click {% octicon "gear" aria-hidden="true" %} **Settings**.
 
